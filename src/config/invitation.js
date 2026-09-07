@@ -9,7 +9,7 @@ export const invitation = {
 
   // The invitation details
   day: 'Tuesday',
-  date: '9 September',        // e.g. '9 September'
+  date: '8ptember',        // e.g. '8ptember'
   time: 'Subah 10:30 baje',       // e.g. 'Subah 10:30 baje' or '7:00 PM'
   location: 'My Room',
 
