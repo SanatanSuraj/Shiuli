@@ -1,0 +1,10 @@
+Put your photograph in this folder with the exact filename:
+
+    my-photo.jpg
+
+A portrait orientation photo (roughly 3:4, at least 900px wide) works best.
+The site automatically shows an elegant placeholder until the file exists,
+so nothing breaks while you're testing.
+
+To change the name, date, time, room, book title, poem title or signature,
+edit:  src/config/invitation.js
